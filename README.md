@@ -20,7 +20,7 @@
 
 -  Studying Machine Learning since 2021
 
--  Tottaly in love with Linear Algebra & Math Statistics
+-  Totally in love with Linear Algebra & Math Statistics
 
 -  Hobbies and Intests: Powerlifting | Cartoons history | Hellenistic philosophy, mainly Stoicism. 
 
