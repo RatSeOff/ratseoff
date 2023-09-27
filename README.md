@@ -46,9 +46,6 @@
 ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratseoff&layout=compact)](https://github.com/ratseoff/github-readme-stats)
-</div>
 
 ## Social Networks
 
@@ -59,5 +56,3 @@
 
 
 </div>
-
-for further dev. https://habr.com/ru/articles/649363/
