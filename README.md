@@ -22,7 +22,7 @@
 
 -  Totally in love with Linear Algebra & Math Statistics
 
--  Hobbies and Intests: Powerlifting | Cartoons history | Hellenistic philosophy, mainly Stoicism. 
+-  Hobbies and Intests: Cartoons history | Weightlifting |  Languages | Hellenistic philosophy, mainly Stoicism. 
 
 
 
