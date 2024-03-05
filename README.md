@@ -20,7 +20,7 @@
 
 -  Studying Machine Learning since 2021
 
--  Hobbies and Intests: ArmWrestling | Weightlifting | Powerlifting | Hellenistic philosophy, mainly Stoicism. 
+-  Hobbies and Intests: Armwrestling | Weightlifting | Powerlifting | Hellenistic philosophy, mainly Stoicism. 
 
 
 
