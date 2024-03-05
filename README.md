@@ -58,6 +58,6 @@
 
 ### Projects
 
-|Название        | Описание        | Технологии|
+| Title       | Description      | Stack |
 |----------------|-----------------|-----------|
 |[Recommendation system of the news feed in the social network](https://github.com/ratseoff/Recommendation_system)|Service for issuing a personal news feed on a social network|Pandas, catboost, FastAPI, SQLAlchemy, Docker |
