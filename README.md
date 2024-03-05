@@ -20,9 +20,7 @@
 
 -  Studying Machine Learning since 2021
 
--  Totally in love with Linear Algebra & Math Statistics
-
--  Hobbies and Intests: Cartoons history | Weightlifting |  Languages | Hellenistic philosophy, mainly Stoicism. 
+-  Hobbies and Intests: ArmWrestling | Weightlifting | Powerlifting | Hellenistic philosophy, mainly Stoicism. 
 
 
 
