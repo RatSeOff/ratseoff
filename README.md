@@ -10,11 +10,6 @@
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Computer+science+student;ML-Engineer)](https://git.io/typing-svg)
-
-</div>
 
 -  Studied Web-Development between 2019 and 2021
 
