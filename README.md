@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](adv_time.gif?raw=true)
-    
+# Hello, I'm Ratibor 👋
+
 </div>
 
 <div align="center">
 
-# Hello, I'm Ratibor 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Computer+science+student;ML-Engineer)](https://git.io/typing-svg)
 
 </div>
 
