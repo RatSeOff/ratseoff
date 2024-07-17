@@ -46,7 +46,7 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ratibor_Sergeev)
-[![Vkontakte](https://img.shields.io/badge/VK-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/sergeev_ratibor)
+[![Vkontakte](https://img.shields.io/badge/VK-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/ratibored)
 
 
 </div>
