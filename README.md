@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Ratibor 👋
+# Аве, я Ратибор 👋
 
 </div>
 
@@ -11,15 +11,15 @@
 </div>
 
 
--  Studied Web-Development between 2019 and 2021
+-  Изучал веб-разработку в период с 2019 по 2021 год
 
--  Studying Machine Learning since 2021
+-  Изучаю машинное обучение с 2021 года
 
--  Hobbies and interests: Armwrestling | Weightlifting | Powerlifting | Hellenistic philosophy, mainly Stoicism. 
+-  Хобби и интересы: Тяжелая и лёгкая атлетики | Пауэрлифтинг | Эллинистическая философия, в основном стоицизм.
 
 
 
-## Languages and tools 🔧
+## Языки и инструменты 🔧
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
 
-## Social Networks
+## Социальные сети
 
 <div align="center">
 
@@ -51,8 +51,9 @@
 
 </div>
 
-### Projects
+### Проекты
 
-| Title       | Description      | Stack |
+| Название       | Краткое описание      | Технологии |
 |----------------|-----------------|-----------|
-|[Recommendation system of the news feed in the social network](https://github.com/ratseoff/Recommendation_system)|Service for issuing a personal news feed on a social network| Pandas, CatBoost, FastAPI, SQLAlchemy, Transformers |
+|[Рекомендательная система новостной ленты в социальной сети](https://github.com/ratibored/Recommendation_system)|Сервис для оформления персональной ленты новостей в социальной сети| Pandas, CatBoost, FastAPI, SQLAlchemy, Transformers |
+|[Поисковик стоических цитат](https://github.com/ratibored/find_quotes_stoic)|Локальный поиск цитат философов-стоиков по смыслу| Pandas, Numpy, Sentence_Transformers, PySimpleGUI, PyTorch
